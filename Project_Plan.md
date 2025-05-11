@@ -33,7 +33,7 @@ This project will provide significant value by:
 ## 4. Data Source
 
 * **Primary Data:** The **GH Archive dataset** (`https://www.gharchive.org/`). This dataset contains timed event data for public GitHub repositories.
-* **Data Period:** As per the source documentation, the dataset covers up to January 2015. The analysis will focus on the last 10 years covered by the dataset. 
+* **Data Period:** As per the source documentation, the dataset covers up to January 2015. The analysis will focus on the years 2020-2025 covered by the dataset. This is done for practical purposes. The dataset is too large to fit into the EC2 instance volume. 
 
 ---
 
