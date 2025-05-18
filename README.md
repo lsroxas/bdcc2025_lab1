@@ -3,7 +3,7 @@
 Scope: 
 <ul>
 <li>Analysis will be done on github archive entries from 2020 - 2025.</li>
-<li>The analysis will be limited to projects under the Apache Software Foundation</li>
+<li>The analysis will be limited to 10 most active projects under the Apache Software Foundation</li>
 </ul>
 
 Working file:
